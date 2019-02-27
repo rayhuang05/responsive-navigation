@@ -77,7 +77,6 @@ nav a:hover {
   html {
     font-size: 120%;
     line-height: 1.5;
-
 }
 
   header {
@@ -102,6 +101,4 @@ nav a:hover {
 @media only screen and (min-width: 90em) {
   html {
     font-size: 130%;
-}
-
 }
